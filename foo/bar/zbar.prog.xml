@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<abapGit version="v1.0.0">
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>SAPLZFUGR2</NAME>
+    <NAME>ZBAR</NAME>
     <STATE>A</STATE>
     <SQLX/>
     <EDTX/>
     <VARCL>X</VARCL>
-    <DBAPL>S</DBAPL>
-    <DBNA>D$</DBNA>
+    <DBAPL/>
+    <DBNA/>
     <CLAS/>
     <TYPE/>
     <OCCURS/>
-    <SUBC>F</SUBC>
-    <APPL>S</APPL>
+    <SUBC>1</SUBC>
+    <APPL/>
     <SECU/>
     <CNAM/>
     <CDAT>0000-00-00</CDAT>
@@ -31,15 +31,16 @@
     <STIME/>
     <IDATE>0000-00-00</IDATE>
     <ITIME/>
-    <LDBNAME>D$S</LDBNAME>
+    <LDBNAME/>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
+   <DYNPROS/>
    <TPOOL>
     <item>
-     <ID>I</ID>
-     <KEY>001</KEY>
-     <ENTRY>sdf</ENTRY>
-     <LENGTH>13</LENGTH>
+     <ID>R</ID>
+     <KEY/>
+     <ENTRY>Report ZBAR</ENTRY>
+     <LENGTH>11</LENGTH>
      <SPLIT/>
     </item>
    </TPOOL>
