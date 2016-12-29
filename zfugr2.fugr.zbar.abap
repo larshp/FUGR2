@@ -3,6 +3,7 @@ FUNCTION zbar.
 *"*"Local Interface:
 *"----------------------------------------------------------------------
 
+
   WRITE: / 'sdf'(001).
 
 ENDFUNCTION.

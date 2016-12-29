@@ -192,7 +192,12 @@
     <PFK/>
     <SET/>
     <DOC/>
-    <TIT/>
+    <TIT>
+     <RSMPE_TITT>
+      <CODE>TITLE_TEST</CODE>
+      <TEXT>Test</TEXT>
+     </RSMPE_TITT>
+    </TIT>
     <BIV/>
    </CUA>
   </asx:values>
