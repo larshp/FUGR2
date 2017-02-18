@@ -1,18 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_SFSW" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <HEADER>
     <SWITCH_ID>ZABAPGIT_UNIT_TEST</SWITCH_ID>
     <VERSION>A</VERSION>
-    <AUTHOR/>
-    <CREATEDON>0000-00-00</CREATEDON>
-    <CHANGEDBY/>
-    <CHANGEDON>0000-00-00</CHANGEDON>
-    <X_COMBI/>
-    <X_DDIC/>
-    <TIMESTAMP>0</TIMESTAMP>
-    <SWITCH_NR>0</SWITCH_NR>
    </HEADER>
    <NAME32>test</NAME32>
    <NAME80/>
