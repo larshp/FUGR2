@@ -5,19 +5,7 @@
    <TOBJ>
     <OBJCT>ZAG_UNIT_T</OBJCT>
     <FIEL1>ACTVT</FIEL1>
-    <FIEL2/>
-    <FIEL3/>
-    <FIEL4/>
-    <FIEL5/>
-    <FIEL6/>
-    <FIEL7/>
-    <FIEL8/>
-    <FIEL9/>
-    <FIEL0/>
     <OCLSS>ZAGT</OCLSS>
-    <BNAME/>
-    <FBLOCK/>
-    <CONVERSION/>
    </TOBJ>
    <TOBJT>
     <LANGU>E</LANGU>
@@ -26,12 +14,6 @@
    </TOBJT>
    <TOBJVORFLG>
     <OBJCT>ZAG_UNIT_T</OBJCT>
-    <FLAG1/>
-    <FLAG2/>
-    <FLAG3/>
-    <FLAG4/>
-    <FLAG5/>
-    <ATTRIBUTES/>
    </TOBJVORFLG>
    <TACTZ>
     <TACTZ>
