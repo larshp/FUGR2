@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SFBS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEADER>
+    <BSET>ZABAPGIT_UNIT_TEST_SET</BSET>
+    <VERSION>A</VERSION>
+    <STATE/>
+    <AUTHOR/>
+    <CREATEDON>0000-00-00</CREATEDON>
+    <CHANGEDBY/>
+    <CHANGEDON>0000-00-00</CHANGEDON>
+    <TIMESTAMP>0</TIMESTAMP>
+    <TYPE/>
+    <ROOT/>
+   </HEADER>
+   <NAME32>BF set</NAME32>
+   <NAME80/>
+   <ASSIGNED_BF/>
+   <NESTED_BFS/>
+   <PARENT_BFS/>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SFBF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEADER>
+    <BFUNCTION>ZABAPGIT_UNIT_TEST</BFUNCTION>
+    <VERSION>A</VERSION>
+    <IS_SYSTEM/>
+    <AUTHOR/>
+    <CREATEDON>0000-00-00</CREATEDON>
+    <CHANGEDBY/>
+    <CHANGEDON>0000-00-00</CHANGEDON>
+    <TIMESTAMP>0</TIMESTAMP>
+    <TYPE/>
+    <REVERSIBLE/>
+    <OBSOLETE/>
+    <COMPONENT>LOCAL</COMPONENT>
+    <FROM_RELEASE/>
+   </HEADER>
+   <NAME32>short</NAME32>
+   <NAME80>long</NAME80>
+   <ASSIGNED_SWITCHES/>
+   <DEPENDANCIES/>
+   <CONTENT_KW>
+    <BFUNCTION/>
+    <VERSION/>
+    <OBJECT_CLASS/>
+    <TOPIC_OBJECT_ID/>
+    <STR_OBJECT_ID/>
+    <PREFIX/>
+    <DOCNAME/>
+   </CONTENT_KW>
+   <CONTENT_TC>
+    <BFUNCTION/>
+    <VERSION/>
+    <STRUCTURE_ID/>
+   </CONTENT_TC>
+   <CONTENT_RN>
+    <BFUNCTION/>
+    <VERSION/>
+    <DOKCLASS/>
+    <DOKNAME/>
+   </CONTENT_RN>
+   <PARENT_BFS/>
+  </asx:values>
+ </asx:abap>
+</abapGit>
