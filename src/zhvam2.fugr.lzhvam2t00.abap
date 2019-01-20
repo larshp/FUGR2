@@ -1,17 +1,17 @@
 *---------------------------------------------------------------------*
 *    view related data declarations
-*   generation date: 18.02.2017 at 14:27:43 by user LHVP
+*   generation date: 20.01.2019 at 07:51:38
 *   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
-*...processing: ZISSUE305.......................................*
-DATA:  BEGIN OF STATUS_ZISSUE305                     .   "state vector
+*...processing: ZHVAM2..........................................*
+DATA:  BEGIN OF STATUS_ZHVAM2                        .   "state vector
          INCLUDE STRUCTURE VIMSTATUS.
-DATA:  END OF STATUS_ZISSUE305                     .
-CONTROLS: TCTRL_ZISSUE305
+DATA:  END OF STATUS_ZHVAM2                        .
+CONTROLS: TCTRL_ZHVAM2
             TYPE TABLEVIEW USING SCREEN '0001'.
 *.........table declarations:.................................*
-TABLES: *ZISSUE305                     .
-TABLES: ZISSUE305                      .
+TABLES: *ZHVAM2                        .
+TABLES: ZHVAM2                         .
 
 * general table data declarations..............
   INCLUDE LSVIMTDT                                .

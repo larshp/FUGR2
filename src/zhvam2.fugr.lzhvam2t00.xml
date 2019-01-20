@@ -3,13 +3,11 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>LZISSUE305F00</NAME>
+    <NAME>LZHVAM2T00</NAME>
     <STATE>A</STATE>
-    <SQLX>X</SQLX>
     <SUBC>I</SUBC>
     <RLOAD>E</RLOAD>
    </PROGDIR>
-   <TPOOL/>
   </asx:values>
  </asx:abap>
 </abapGit>

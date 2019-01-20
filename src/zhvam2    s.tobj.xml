@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <OBJH>
-    <OBJECTNAME>ZISSUE305</OBJECTNAME>
+    <OBJECTNAME>ZHVAM2</OBJECTNAME>
     <OBJECTTYPE>S</OBJECTTYPE>
     <CLIDEP>X</CLIDEP>
     <OBJCATEG>APPL</OBJCATEG>
@@ -11,21 +11,35 @@
    </OBJH>
    <OBJT>
     <LANGUAGE>E</LANGUAGE>
-    <OBJECTNAME>ZISSUE305</OBJECTNAME>
+    <OBJECTNAME>ZHVAM2</OBJECTNAME>
     <OBJECTTYPE>S</OBJECTTYPE>
-    <DDTEXT>Testing</DDTEXT>
+    <DDTEXT>test</DDTEXT>
    </OBJT>
    <OBJS>
     <OBJS>
-     <OBJECTNAME>ZISSUE305</OBJECTNAME>
+     <OBJECTNAME>ZHVAM2</OBJECTNAME>
      <OBJECTTYPE>S</OBJECTTYPE>
-     <TABNAME>ZISSUE305</TABNAME>
+     <TABNAME>ZHVAM2</TABNAME>
      <DDIC>X</DDIC>
      <PRIM_TABLE>X</PRIM_TABLE>
     </OBJS>
    </OBJS>
-   <OBJSL/>
-   <OBJM/>
+   <TOBJ>
+    <TDDAT>
+     <TABNAME>ZHVAM2</TABNAME>
+     <CCLASS>&amp;NC&amp;</CCLASS>
+    </TDDAT>
+    <TVDIR>
+     <TABNAME>ZHVAM2</TABNAME>
+     <AREA>ZHVAM2</AREA>
+     <DEVCLASS>$FUGR</DEVCLASS>
+     <TYPE>2</TYPE>
+     <LISTE>0001</LISTE>
+     <DETAIL>0002</DETAIL>
+     <BASTAB>X</BASTAB>
+     <FLAG>X</FLAG>
+    </TVDIR>
+   </TOBJ>
   </asx:values>
  </asx:abap>
 </abapGit>

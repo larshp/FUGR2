@@ -1,10 +1,8 @@
 *---------------------------------------------------------------------*
-*    program for:   TABLEPROC_ZISSUE305
-*   generation date: 18.02.2017 at 14:27:26 by user LHVP
+*    view related FORM routines
+*   generation date: 20.01.2019 at 07:51:38
 *   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
-FUNCTION TABLEPROC_ZISSUE305           .
 
-  PERFORM TABLEPROC.
-
-ENDFUNCTION.
+* base table related FORM-routines.............
+INCLUDE LSVIMFTX .
